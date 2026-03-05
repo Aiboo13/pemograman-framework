@@ -10,3 +10,6 @@ Route::get('/about', function () {
     return "halaman about" ;
 });
 
+Route::get('/profile', function(){
+    return view('Profile');
+});

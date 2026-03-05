@@ -1,3 +1,6 @@
 <div>
-    <!-- It is not the man who has too little, but the man who craves more, that is poor. - Seneca -->
+    <h1>Profile Mahasiswa</h1>
+    <p>Nama: Minas Sahiddin</p>
+    <p>Kelas: TI-B</p>
+    <p>NRP: 3124521045</p>
 </div>
