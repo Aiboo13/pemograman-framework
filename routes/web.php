@@ -7,7 +7,7 @@ Route::get('/', function () {
 });
 
 Route::get('/about', function () {
-    return "halaman about" ;
+    return view('About');
 });
 
 Route::get('/profile', function(){
